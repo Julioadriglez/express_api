@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "Semana 3 de LaunchX-InnovaccionVirtual Mission NodeJS: Creación mi primer API con Express JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioadriglez/express_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioadriglez/express_api/issues"
+  },
+  "homepage": "https://github.com/Julioadriglez/express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
